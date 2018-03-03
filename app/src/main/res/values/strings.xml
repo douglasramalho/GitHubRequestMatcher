@@ -1,0 +1,5 @@
+<resources>
+    <!-- Repositories -->
+    <string name="repositories">Repositórios</string>
+    <string name="repositories_error">Erro ao obter lista de repositórios</string>
+</resources>
